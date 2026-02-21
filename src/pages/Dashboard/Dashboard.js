@@ -4,6 +4,7 @@ import Statistics from "../../Components/Statistics/Statistics";
 import Orders from "../../Components/Orders/Orders";
 import {
   cardsData,
+  groupNumber,
 } from "../../data/data";
 
 const Dashboard = () => {
